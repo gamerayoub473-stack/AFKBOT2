@@ -43,6 +43,8 @@
 
     "chat-log": true,
     "auto-reconnect": true,
+    "auto-reconnect-delay": 1000
+
     "auto-recconect-delay": 4000
   }
 }
